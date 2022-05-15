@@ -1,4 +1,7 @@
 # Practica5
+
+CORTAVARRIA ,José Noel
+ZAMBRANA ,Manel
 Después de la creación de la clase Calculadora debemos implementar mediante la palabra reservada de Java ‘’Implement’’ , la Interfaz ICalculadora creada previamente con los métodos creados pero no implementados.
 
 Son cuatro métodos simples Suma , resta , multiplicación y división:
